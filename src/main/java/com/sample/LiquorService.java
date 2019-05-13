@@ -28,4 +28,8 @@ public class LiquorService {
     }
 }
 
+<<<<<<< HEAD
 //new stuff
+=======
+//new edits 1
+>>>>>>> newEdits
