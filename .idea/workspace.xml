@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="6ddce304-93f1-4ad1-8a27-001ac2fd0f42" name="Default Changelist" comment="">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/LiquorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/LiquorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/model/LiquorType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/model/LiquorType.java" afterDir="false" />
+>>>>>>> newEdits
 =======
       <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/LiquorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/LiquorService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/model/LiquorType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/model/LiquorType.java" afterDir="false" />
@@ -42,7 +47,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
 <<<<<<< HEAD
+<<<<<<< HEAD
               <caret line="6" selection-start-line="6" selection-end-line="6" />
+=======
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+>>>>>>> newEdits
 =======
               <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
 >>>>>>> newEdits
@@ -54,8 +63,13 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/LiquorService.java">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="465">
               <caret line="31" selection-start-line="31" selection-end-line="31" />
+=======
+            <state relative-caret-position="450">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+>>>>>>> newEdits
 =======
             <state relative-caret-position="450">
               <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
@@ -130,11 +144,17 @@
     </treeState>
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="ProjectFrameBounds">
     <option name="x" value="219" />
     <option name="y" value="73" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
+=======
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1200" />
+>>>>>>> newEdits
 =======
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1920" />
@@ -200,7 +220,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557767496121" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557767144392" />
+>>>>>>> newEdits
 =======
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557767144392" />
 >>>>>>> newEdits
@@ -233,7 +257,11 @@
       <option name="presentableId" value="Default" />
       <updated>1557761835645</updated>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1557761837050" duration="2262000" />
+=======
+      <workItem from="1557761837050" duration="2915000" />
+>>>>>>> newEdits
 =======
       <workItem from="1557761837050" duration="2915000" />
 >>>>>>> newEdits
@@ -242,7 +270,11 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="2262000" />
+=======
+    <option name="totallyTimeSpent" value="2915000" />
+>>>>>>> newEdits
 =======
     <option name="totallyTimeSpent" value="2915000" />
 >>>>>>> newEdits
@@ -250,6 +282,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
     <layout>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18051118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -260,6 +293,8 @@
       <window_info id="Web" order="6" side_tool="true" />
       <window_info id="Image Layers" order="7" />
 =======
+=======
+>>>>>>> newEdits
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="UI Designer" />
@@ -274,6 +309,9 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" weight="0.32929516" />
+<<<<<<< HEAD
+>>>>>>> newEdits
+=======
 >>>>>>> newEdits
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -282,6 +320,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
 <<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32929516" />
@@ -299,6 +338,8 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
 =======
+=======
+>>>>>>> newEdits
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Database" />
@@ -308,6 +349,9 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+<<<<<<< HEAD
+>>>>>>> newEdits
+=======
 >>>>>>> newEdits
     </layout>
   </component>
@@ -333,6 +377,7 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/LiquorService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -343,6 +388,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> newEdits
 =======
 >>>>>>> newEdits
     <entry file="file://$PROJECT_DIR$/src/main/webapp/result.jsp">
@@ -360,11 +407,14 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/model/LiquorType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
 =======
+=======
+>>>>>>> newEdits
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/LiquorService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -379,6 +429,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+<<<<<<< HEAD
+>>>>>>> newEdits
+=======
 >>>>>>> newEdits
         </state>
       </provider>
