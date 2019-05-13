@@ -4,3 +4,4 @@ public enum LiquorType {
 
         WINE,BEER,WHISKY
 }
+ //new edits 2
