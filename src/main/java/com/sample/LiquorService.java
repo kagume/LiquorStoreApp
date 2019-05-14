@@ -28,12 +28,4 @@ public class LiquorService {
     }
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-//new stuff
-=======
-//new edits 1
->>>>>>> newEdits
-=======
-//new edits 1
->>>>>>> newEdits
+
